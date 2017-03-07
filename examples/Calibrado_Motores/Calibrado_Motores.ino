@@ -1,6 +1,6 @@
 #include <HC_SR04.h>
 #include <ORC.h>
-// Ejemplo Librería para el kit de robótica de la ORC 2.16 Organizada por Makers UPV
+// Ejemplo Librería para el kit de robótica de la ORC 2.17 Organizada por Makers UPV
 // http://www.makersupv.com
 // Incluye la librería de Ultrasonidos HC-SR04: http://playground.arduino.cc/Code/SR04
 // Codificado por Guillermo Orts y por Germán Torres

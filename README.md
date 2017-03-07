@@ -1,4 +1,4 @@
 # ORC
-ORC 2.16
-Librería para la competición ORC 2.16 y el kit del concurso.
+ORC 2.17
+Librería para la competición ORC 2.17 y el kit del concurso.
 https://orchallenge.es/
